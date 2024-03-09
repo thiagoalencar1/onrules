@@ -1,10 +1,10 @@
 # frozen_string_literal: true
 
-require_relative "lib/onrules/version"
+require_relative "lib/on_rules/version"
 
 Gem::Specification.new do |spec|
-  spec.name = "onrules"
-  spec.version = Onrules::VERSION
+  spec.name = "on_rules"
+  spec.version = OnRules::VERSION
   spec.authors = ["Thiago Alencar"]
   spec.email = ["talencar@gmail.com"]
 

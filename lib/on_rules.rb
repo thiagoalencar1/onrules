@@ -1,6 +1,7 @@
 # frozen_string_literal: true
 
 require 'on_rules/version'
+require 'on_rules/array'
 
 module OnRules
   class Application
